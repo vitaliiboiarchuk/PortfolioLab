@@ -1,10 +1,4 @@
-
-Przed przystąpieniem do pracy  przeczytaj poniższe wskazówki.
-## Jak zacząć?
-
-1. Zaimportuj projekt jako projekt `Maven`, wg poniższych wskazówek:
-
-	* W `IntelliJ` wybieramy: `File –> New –> Project from Existing Sources...`
-	* Wskazujemy lokalizację katalogu ze sklonowanym projektem i zatwierdzamy.
-	* Następnie w nowym oknie wybieramy: `Import project from external model` i wskazujemy `Maven`
-	* Wybieramy kolejno opcje: `Next –> Next –> Next –> Finish`
+The application is used to donate to trusted institutions.
+An administration panel has been created to manage foundations, users, administrators. 
+Users can manage their own donations.
+In the project were used the following tools and technologies: Java, HTML & CSS, JavaScript, Spring, Hibernate, Spring Boot, Spring Security, MySQL, SQL.
